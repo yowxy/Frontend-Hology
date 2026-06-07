@@ -179,6 +179,8 @@ class _SigninPagesState extends State<SigninPages> {
                       MaterialPageRoute(builder: (context) => SignupPages()),
                     );
                   },
+
+                  
                   child: Text(
                     'Daftar',
                     style: TextStyle(

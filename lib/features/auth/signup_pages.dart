@@ -47,7 +47,7 @@ class _SignupPagesState extends State<SignupPages> {
               height: 234,
               margin: const EdgeInsets.symmetric(vertical: 20),
               decoration: const BoxDecoration(
-                image: DecorationImage(
+                image: DecorationImage( 
                   image: AssetImage('assets/images/auth_image_bg.png'),
                 ),
               ),
